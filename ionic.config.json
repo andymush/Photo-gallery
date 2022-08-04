@@ -1,0 +1,7 @@
+{
+  "name": "photo-gallery2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
